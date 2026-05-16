@@ -1,3 +1,5 @@
+https://colab.research.google.com/github/mikejoe144/MIT_Hackathon/blob/main/Hackathon.ipynb
+
 Goal:
 The goal of the problem is to predict whether a passenger was satisfied or not, considering his/her overall experience of traveling on the Shinkansen Bullet Train.
 
